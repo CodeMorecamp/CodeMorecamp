@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Femi Olabiyi</h1>
+<h1 align="center">Hi 👋, I'm Femi Emmanuel</h1>
 <h3 align="center">A Full Stack (Frontend heavy) developer per excellence.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codemorecamp&label=Profile%20views&color=0e75b6&style=flat" alt="codemorecamp" /> </p>
@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Full Stack app in Tech, Edu and Health sector**
 
-- 👨‍💻 All of my projects are available at [femiporfolio.netlify.app](femiporfolio.netlify.app)
+- 👨‍💻 All of my projects are available at [ofemiportfolio.netlify.app](ofemiportfolio.netlify.app)
 
 - 💬 Ask me about **javascript, react**
 
